@@ -1,0 +1,10 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Shows 5-hour and weekly usage limits and context window fill above the prompt",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "admSla99"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "claude-mods",
+  "owner": {
+    "name": "admSla99"
+  },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./usage-band",
+      "description": "Shows 5-hour and weekly usage limits and context window fill in one row above the prompt"
+    }
+  ],
+  "description": "Small Claude Code mods by admSla99"
+}
